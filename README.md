@@ -4,10 +4,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Other.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/gitmojito.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/gitmojito.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/gitmojito.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/gitmojito.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/gitmojito.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/gitmojito.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 
